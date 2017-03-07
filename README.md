@@ -378,7 +378,7 @@
 - #### Event Management
   - [vuemit](https://github.com/gocanto/vuemit) - Vuemit is a tiny library to work with events on Vue.js. Its aim is to keeping simple the fact of sharing information between two or more components. By [@gocanto](https://github.com/gocanto)
   - [vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Simple plugin to manage your custom events in the application. <sup>Compatible with Vue 1 and Vue 2</sup> By [Sandeep K](https://github.com/sandeepk01)
-
+  - [vuex-firease](https://github.com/ralphchristianeclipse/vuex-firebase) - Vuex plugin for binding firebase data to vuex with simple api <sup>Compatible with Vue 2 only</sup> By [Ralph Christian D. Eclipse](https://github.com/ralphchristianeclipse)
 - #### Validation
 
   - [**vue-validator ★1137**](https://github.com/vuejs/vue-validator) - Form validation plugin maintained by @kazupon <sup>2.0 compatible</sup>
